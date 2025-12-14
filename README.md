@@ -1,70 +1,63 @@
 <div align="center">
     
-# ✨ Liu Mingda - System Initialized ✨
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849479/4222/loading.gif?1531849479" width="30"/> Liu Mingda - A.I. Entity Initializing...
     
-### | 🎓 北京航空航天大学 (BUAA) 研究生 | ⚙️ VLM/AI 研究员 | 
+### 🎓 | BUAA 研究生 / A.I. Research Fellow | 🇨🇳
     
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4MTJjd3g5MnN2cGEzbW5hZW93OWU1d2R3cDV0M3I2czc2MmgyZCZlcD12aXN1YWxzX3NlYXJjaCZjdD1n/mG5c7m7yA3MIMY4i5B/giphy.gif" alt="AI-themed GIF/Banner" width="100%">
+<img src="https://media.giphy.com/media/l4pS8H0g455eC9k0o/giphy.gif" alt="System Status Loading" width="100%">
 
 </div>
 
 ---
 
-## ⚡ 任务简报 (System Status) ⚡
+## 🧠 **核心智能体状态 (Agent Core Status)**
 
-* **🔭 当前任务 (Current Mission):** 致力于 **视觉语言模型 (VLM)** 的研究与开发。
-* **🌱 学习日志 (Learning Log):** 深入学习 **Agent 智能体、大型语言模型 (LLM)、检索增强生成 (RAG)** 以及先进 **VLM 技术**。
-* **📝 知识库 (Knowledge Base):** 定期在 [CSDN 博客](https://blog.csdn.net/2301_77897903) 记录研究心得与技术文章。
+| 模块 (Module) | 状态 (Status) | 描述 (Description) |
+| :--- | :--- | :--- |
+| **主任务** | **VLM Development** | 视觉-语言融合模型框架构建 |
+| **学习进程** | **Aggressive Learning** | Agent System, RAG, LLM Architectures |
+| **知识输出** | **Online Sync** | [CSDN 技术博客](https://blog.csdn.net/2301_77897903) (定期数据注入) |
 
 ---
 
-## 🛠️ AI 工具箱与编程语言 (Protocols) 🛠️
+## 💡 **技术栈矩阵 (Technical Stack Matrix)**
 
+我们使用徽章（Badges）来取代图片图标，使其更具扁平化和科技感。
+
+### **A.I. & Machine Learning Frameworks**
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    </a> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+### **System & Data Protocols**
+<p align="left">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ---
 
-## 📈 数据处理与代码贡献 (Data Visualization) 📈
+## 📊 **系统指标与代码贡献 (System Metrics & Contribution)**
+
+我们使用自动更新的卡片来展示代码活动，这是高级 GitHub Profile 的标准配置。
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&rank_icon=github&count_private=true&title_color=00FF00&icon_color=00FF00" alt="Liu Mingda GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&rank_icon=github&count_private=true&title_color=00FF00&icon_color=00FF00&hide_border=true" alt="Liu Mingda GitHub Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=00FF00&icon_color=00FF00" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=00FF00&icon_color=00FF00&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 代码贡献轨迹 (Code Contribution Trace) 🐍
+## 🐍 **代码活动流 (Code Activity Stream)**
 
-### *\[Executing Protocol: Snake Game Viz]*
+### *\[Trace Protocol: Contribution Grid Snake]*
 
 <p align="center">
     <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
@@ -72,14 +65,20 @@
 
 ---
 
-## 📞 连接通道 (Establish Connection) 📞
+## 🛰️ **连接端口 (Connection Port)**
 
-> **Email:** `abllmd001@gmail.com`
->
-> **状态:** *\[等待指令...]* ---
+| 协议 (Protocol) | 端口 (Port) |
+| :--- | :--- |
+| **Email** | `abllmd001@gmail.com` |
+| **Status** | **Awaiting Signal...** |
 
-**重要提示：**
+---
 
-请务必将代码中的所有 `YOUR_USERNAME` 替换成您真实的 GitHub 用户名，并按照我之前的说明配置 **GitHub Action** 来生成贪吃蛇图片，才能让所有可视化元素正常显示！
+### **💡 进阶修改总结：**
 
-您是否需要我为您提供配置“贪吃蛇爬代码”的 GitHub Action 文件的详细教程？
+1.  **高级命名：** 使用 **A.I. Entity Initializing...** 和 **Agent Core Status** 等术语。
+2.  **徽章 (Badges)：** 使用 Shields.io 徽章取代纯图标，增强视觉统一性和专业性。
+3.  **信息密度：** 将学习和工作信息整合进表格，结构化地呈现数据。
+4.  **主题优化：** 为统计卡片选择了更具科技感的主题 (`theme=vue` 或 `theme=dark` 搭配绿色高亮)，并且隐藏了边框 (`hide_border=true`) 使其融入背景。
+
+请记得替换所有 `YOUR_USERNAME` 和 GIF 链接。您需要我详细指导您如何设置“贪吃蛇爬代码”的 GitHub Action 吗？
