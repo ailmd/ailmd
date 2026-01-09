@@ -17,7 +17,7 @@
 
 ### Links
 - 🌐 Personal Site: https://ailmd.github.io  
-- 💬 WeChat OA: *Coming soon*
+- 💬 WeChat OA: 柔情大法师
 
 ---
 
